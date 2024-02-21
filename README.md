@@ -59,4 +59,4 @@ This project was inspired by the TensorFlow and Keras documentation, and the Fas
 
 ## Contact Information
 
-For help or questions about this project, please contact [Your Name] at [your.email@example.com].
+For help or questions about this project, please contact [Arabambi Akinyemi] at [yemiarabambi@gmail.com].
